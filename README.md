@@ -15,11 +15,13 @@ The Games Portal Contains two Games:
 2. Tic Tac Toe Game by Altamash
 
 Bonus Feature of Games Portal: -
+
 This Games Portal Application contains a Bonus Feature which is Control Systems that helps whenever your OS's shutdown or restart button is not working properly. .
 The Games in The HaveFun Games Application have Bonus Features in them as well.
 This Application is Platform Independent, you can run the application in Windows, Linux, Mac OS X, etc.
 
 Bonus Feature of Snake Game by Altamash: -
+
 The Snake Game by Altamash contains a bonus feature that,
 Whenever the snake will eat food for five times, there will be a Bonus Food Item available for the snake, this item will increase your score by five.
 Bonus Food Item will be Circular in shape, this item is available in all Difficulty Levels.
