@@ -2,7 +2,7 @@
 This is a Games Portal for all OS running java having beautiful games with bonus features and beautiful GUI.
 The portal consist of two beautiful games and bonus features.
 
-#Description
+# Description
 The Games Portal is written in Java 9 using the AWT and Swing API (Application Programming Interface), it is built for Laptops and Desktops that have Java installed in it, it is built using lightweight Components, it can be played by anyone.
 The Games Portal is built for Entertainment Purpose.
 These Games have beautiful User Interface, Games have good Graphics, Games has a good Gameplay.
